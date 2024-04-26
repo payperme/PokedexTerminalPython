@@ -15,8 +15,8 @@ if args.name:
             pokemon = pb.pokemon(args.name)
             print(f"Pokemon name: '{pokemon.name}'")
             print(f"Weight: '{pokemon.weight}'")
-            pokemon.height
-            pokemon.id
+            print(f"Height: '{pokemon.height}'")
+            print(f"id: '{pokemon.id}'")
             print("Available Pokemon Data")
         else:
             print(f"Error: Pokemon '{args.name}' not found")
