@@ -2,7 +2,8 @@
 ## PTP (Pokedex Terminal in Python)
 
 Simple code based on Python to use on Terminal
-
+> [!IMPORTANT]
+> On Debian or any Linux Distro you must to create a virtual environment.
 ### How to install
 Easy, create a virtual environment on Python
 ```
